@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@700&display=swap');
+
+body
+
+{background: gray; 
+color: black;
+font-family: 'Edu SA Beginner', cursive;
+text-align: center;
+font-size: 30px}
+p {color: purple;font-size: 30px}
+
+p2 {color: purple; font-size: 25px}
+    
+  
+    .profile-img
+    {width: 70%;
+border-radius: 70%;
+}
+    .btn {
+ display: block;
+  color: black;
+  padding-top: 20px;
+  background: white;
+  margin: 16px;
+  box-shadow: 10px 10px plum;
+  
+ text-decoration: none;
+    
+}
+
+
